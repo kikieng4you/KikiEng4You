@@ -93,6 +93,8 @@ Hey Guys! Meu nome é Henrique, sou de Recife e tenho 37 anos. Minha jornada na 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+---
+
 ### 📊 Estatísticas
 
 <p>
