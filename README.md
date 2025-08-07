@@ -95,9 +95,10 @@ Hey Guys! Meu nome é Henrique, sou de Recife e tenho 37 anos. Minha jornada na 
 
 </br>
 </br>
+
 ---
 
-### 📊 Estatísticas
+#### 📊 Estatísticas
 
 <p>
   <img 
